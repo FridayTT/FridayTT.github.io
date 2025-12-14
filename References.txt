@@ -1,0 +1,20 @@
+References:
+
+Bootstrap 5 Documentation
+https://getbootstrap.com/
+
+Bootstrap Icons
+https://icons.getbootstrap.com/
+
+Web3Forms
+https://web3forms.com/
+
+GitHub Pages Documentation
+https://pages.github.com/
+
+Minimal Mistakes Jekyll Theme
+https://mmistakes.github.io/minimal-mistakes/
+
+Course Materials
+Web Design course lectures and examples provided by CS-3017: Intro to Web Design Class.
+
