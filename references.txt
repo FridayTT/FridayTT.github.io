@@ -18,3 +18,5 @@ https://mmistakes.github.io/minimal-mistakes/
 Course Materials
 Web Design course lectures and examples provided by CS-3017: Intro to Web Design Class.
 
+Ai resource:
+The Visual Studio Code was used for debugging. 
